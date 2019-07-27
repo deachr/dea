@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <h1>Masukkan Kalimat: </h1>
+  
+  <input type="text" id="input" value="">
+  <button onclick="convert()">Konversi</button>
+  <p>
+  
+    Desimal:
+    <p id="decimal"></p>
+  </p>
+  <p>
+  
+    Heksa:
+    <p id="hexa"></p>
+  </p>
+  <p>
+    
+    Oktal:
+    <p id="octa"></p>
+  </p>
+  <p>
+  
+    Biner:
+    <p id="binnary"></p>
+  </p>
+  
+  <script src="ascii-converter.js"></script>
+  
+  </body>
+  
+  </html>
+  
